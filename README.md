@@ -1,2 +1,2 @@
 # hydro_functions
-A set of useful functions for generating LiDar derived hydrography datasets.
+A set of helper functions for generating LiDar derived hydrography datasets.
